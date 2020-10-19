@@ -4,7 +4,7 @@ Makes 2 Burritos
 
 ## Ingredients ##
 
-- 1 1/2 c Frozen Shredded Hashbrowns
+- 3-4 c Frozen Shredded Hashbrowns
 - 2 T Olive Oil
 - 3 Slices Thick-cut Bacon (optional)
 - 4 Eggs
