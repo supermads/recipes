@@ -1,4 +1,4 @@
-# Mushroom Risotto *
+# Mushroom Risotto #
 
 Serves 4-6 People
 
