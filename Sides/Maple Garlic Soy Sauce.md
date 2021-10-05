@@ -12,7 +12,7 @@ Makes about 4 Servings
 
 ## Instructions: ##
 
-- Melt butter in saucepan over medium heat.
-- Add garlic and cook until fragrant, about 1 minute.
-- Add remaining ingredients and cook, stirring occasionally, until slighly thickened.
-- Let sauce cool slightly, then use to top chicken, tofu, veggies or whatever else you'd like!
+1. Melt butter in saucepan over medium heat.
+2. Add garlic and cook until fragrant, about 1 minute.
+3. Add remaining ingredients and cook, stirring occasionally, until slighly thickened.
+4. Let sauce cool slightly, then use to top chicken, tofu, veggies or whatever else you'd like!

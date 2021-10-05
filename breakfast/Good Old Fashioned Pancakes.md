@@ -12,11 +12,8 @@ Makes 2 6-inch pancakes
  - Chocolate Chips, to taste
 
 ## Instructions ##
-1. Whisk together dry ingredients
-2. Whisk in melted butter until well incorporated
-3. Repeat with Egg
-4. Repeat with Milk
-5. Pour batter into a buttered pan on medium/medium-high heat
-6. Add chocolate chips, to taste to the topside of the pancake
-7. Flip when bubbles rise through the batter
-8. Cook second side until done, ~a minute
+1. Whisk together dry ingredients in a medium mixing bowl.
+2. Whisk in melted butter, egg, and milk, mixing until just combined.
+3. Pour batter into a buttered pan on medium heat.
+4. When bubbles begin to form and then stay, add chocolate chips (if using) and flip the pancake.
+5. Cook second side until cooked through, about 2 minutes.
