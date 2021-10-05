@@ -9,7 +9,7 @@ Makes 2 Burritos
 - 3 Slices Thick-cut Bacon (optional)
 - 4 Eggs
 - Splash of Milk (optional)
-- Pat of Butter
+- 1/2 T Butter
 - 2 10" Flour Tortillas
 - 1/2 c Refried Beans, Warmed
 - 1/2 c Shredded Cheddar Cheese
@@ -33,4 +33,4 @@ Makes 2 Burritos
     - Roll up burrito.  
 9. Place pan over medium high heat and warm second tortilla.
 10. Meanwhile, assemble second burrito.
-11. Toast both burritos over medium high heat until golden brown, turning occasionally, until brown.  You can turn off the heat once the first side is done to reduce the chance of over toasting the burritos.
+11. Toast both burritos over medium high heat, turning occasionally, until golden brown.  You can turn off the heat once the first side is done to reduce the chance of over toasting the burritos.
