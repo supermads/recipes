@@ -4,25 +4,26 @@ Makes About 2 Servings
 
 ## Ingredients ##
 
-- 1 block (16 oz) Firm or Extra Firm Tofu, Pressed
 - 2 Tbsp Corn Starch
 - 2 Tbsp Olive Oil
-- 1/8-1/4 tsp Garlic Powder
-- 3 Tbsp Maple Syrup
-- 1 3/4 Tbsp Rice Vinegar
-- 1 Tbsp Soy Sauce
-- 0.5 Tbsp Butter
+- A sprinkle of Garlic Powder
+- 1 lb Firm Tofu, pressed and cubed
+- ½ Tbsp Unsalted Butter
 - 1-2 cloves Garlic, minced
+- 1 Tbsp Soy Sauce
+- 1 ¾ Tbsp Rice Vinegar
+- 3 Tbsp Maple Syrup
+- Toasted Sesame Seeds for serving (optional)
 
 ## Instructions: ##
 
-1. In a large bowl, combine the corn starch, olive oil, and garlic powder. In a smaller bowl, make the sweet soy sauce by combining the maple syrup, rice vinegar, and soy sauce.
-2. Cut pressed tofu into bite-sized cubes then add to the bowl with the corn starch mixure. Gently stir to coat all of the tofu.
-3. Add tofu to a parchment paper- lined pan or air fryer, keeping some space between the pieces of tofu.
-4. Bake or air-fry at 400 ͦ F for about 20 minutes, stirring halfway through.
-5. While the tofu is baking, heat a pan over medium heat and add the butter.
-6. Once the butter begins to foam, add the garlic and cook for about 1 minute, or until fragrant.
-7. Add the sauce mixture to the pan and lower the heat.
-8. Cook the sauce until it reduces slighly. 
-9. When the tofu is finished baking, add it to the pan with the sauce and cook until the tofu is well coated.
-10. Serve with fried rice, veggies, or whatever you'd like!
+1. Preheat oven to 400°F (405°F plus 10% steam if using APO).
+2. Combine corn starch, olive oil, and garlic powder in a medium bowl then add tofu and stir to coat the cubes well. Don't worry about the cubes breaking apart some. That just means more crispy bits!
+3. Line a sheet pan with parchment paper and spread the tofu out on it. Bake for about 20 min, or until golden brown and crispy.
+4. While the tofu is finishing up baking, heat the butter in a large skillet over medium low heat.
+5. Add the garlic to the pan and cook until fragrant, about a minute, stirring to prevent burning.
+6. Add the soy sauce, rice vinegar, and maple syrup to the pan and simmer for at least 5 minutes to let it reduce by about a third or so. Stir regularly to keep the mixture from sticking to the pan and increase the heat a little if needed.
+7. Add the tofu to the pan of sauce and cook, stirring, for a couple minutes until it's well coated.
+8. Top with sesame seeds (if using) and enjoy!
+
+This recipe doubles easily for meal planning or entertaining.
