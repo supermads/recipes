@@ -2,7 +2,6 @@
 
 - Chocolate PB Cookies
 - Apple Cookies
-- Teriyaki Chicken Thighs
 - Roasted Sweet Potato and Red Onion Salad with Feta and Lemon Dressing
 - Yogurt Tendies
 - French Toast Bagel Sandwich
