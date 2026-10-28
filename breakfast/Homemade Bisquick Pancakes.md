@@ -2,21 +2,21 @@
 
 Makes About 8 Pancakes
 
-## Homemade Bisquick (Makes About 6 c) ##
+## Homemade Bisquick (Makes About 5 1/4 c, 6 Servings) ##
 
-- 5 c White Whole Wheat Flour ⚠️
-- 3 T Baking Powder ⚠️
-- 2 t Kosher Salt ⚠️
-- 1/3 c Olive Oil ⚠️
+- 5 c (600 g) White Whole Wheat Flour
+- 2 1/2 T Baking Powder
+- 1 1/4 t Kosher Salt
+- 5 T Olive Oil
 
 1. Whisk together flour, baking powder, and salt in a large bowl.
 2. Drizzle in the olive oil and mix with a fork or your fingers until there are no big clumps and it looks like damp sand.
-3. Store in an airtight container. This mix is also used in the Apple Pudding Pie.
+3. Store in an airtight container. This mix is also used in the [Fruit Pudding Pie](../dessert/Fruit%20Pudding%20Pie.md).
 
 ## Pancake Ingredients ##
 
 - 2 T Ground Flaxseed + 6 T Water ⚠️
-- 1 3/4 c Homemade Bisquick ⚠️
+- 1 3/4 c (about 1/3 of a batch) Homemade Bisquick ⚠️
 - 1 c Whole Milk
 - 1 T Olive Oil, plus more for the pan
 
