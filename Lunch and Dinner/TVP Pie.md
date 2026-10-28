@@ -12,7 +12,7 @@ Makes 1 9" Pie (6 Servings)
 - 1 10-oz Package Frozen Mixed Vegetables
 - 1 T Low Sodium Soy Sauce
 - 1 c (264 g) BBQ Sauce (like Mastodon by KC Natural)
-- 1 t Garlic Powder ⚠️
+- 1/2 t Garlic Powder
 - Pinch of Salt
 
 ## Cornbread Topping ##
@@ -41,4 +41,3 @@ Makes 1 9" Pie (6 Servings)
 
 - Adapted from the "Chili Pie" on the Cooking the Books YouTube channel. Changes: TVP instead of ground meat, BBQ sauce, and homemade cornbread instead of a boxed mix.
 - MacroFactor: about 428 kcal and 24 g protein per serving.
-- ⚠️ = my best guess, not from MacroFactor. Please double-check.
