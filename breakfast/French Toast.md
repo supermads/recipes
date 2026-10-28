@@ -4,11 +4,11 @@ Makes 3 Servings
 
 ## Ingredients ##
 
-- 1 1/2 T Ground Flaxseed + 4 1/2 T Water
-- 6 T Whole Milk
-- 3/4 t Cinnamon
-- 1 1/2 t Vanilla Extract
-- 300 g Rustic Bread (about 6 slices of the Kirkland Rustic Italian Loaf)
+- 1 T Ground Flaxseed + 3 T Water
+- 1/4 c Whole Milk
+- 1/2 t Cinnamon
+- 1 t Vanilla Extract
+- 3 Slices (about 260 g) [Bread Machine Sourdough](Bread%20Machine%20Sourdough.md)
 - Butter or oil, for the pan
 
 ## Instructions ##
@@ -26,4 +26,4 @@ Whisk together 1 1/4 c (300 g) liquid egg whites, 1/4 c milk, 1 t vanilla, 1 t c
 ## Notes ##
 
 - Merged from the "French Toast (Flax)" and "Egg White French Toast" MacroFactor recipes. "French Toast" was also logged on 26 days going back to 2022.
-- MacroFactor: about 295 kcal and 10 g protein per serving (egg white cups: about 92 kcal and 6 g protein each).
+- MacroFactor: about 203 kcal and 9 g protein per serving (egg white cups: about 92 kcal and 6 g protein each).

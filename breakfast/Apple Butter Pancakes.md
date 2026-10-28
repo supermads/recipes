@@ -30,7 +30,6 @@ Makes About 13 Pancakes or 4 Waffles
 Makes 4 big waffles. Make these changes to the pancake recipe:
 
 - Use 1 1/4 c (150 g) flour instead of 1 3/4 c.
-- Use 2 eggs instead of the flax and 6 T water.
 - Use 1/4 c (57 g) melted butter instead of the olive oil.
 - Whisk 1/2 c (48 g) powdered peanut butter (PB2) into the dry ingredients.
 - Use a little less apple butter (125 g). Everything else stays the same.
@@ -40,4 +39,4 @@ Cook in a waffle iron.
 ## Notes ##
 
 - Merged from two MacroFactor recipes: "Apple Butter Pancakes" and "Apple Butter Pebis Waffles."
-- MacroFactor: about 127 kcal per pancake (waffles: about 404 kcal and 17 g protein each).
+- MacroFactor: about 127 kcal per pancake (waffles: about 387 kcal and 14 g protein each).
