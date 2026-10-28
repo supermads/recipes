@@ -4,7 +4,7 @@ Makes 12 Muffins
 
 ## Ingredients ##
 
-- 2 T Ground Flaxseed + 6 T Water
+- 2 Large Eggs
 - 2 1/3 c (280 g) White Whole Wheat Flour
 - 1 c (200 g) Sugar, plus 2 T for sprinkling
 - 2 1/3 T Poppy Seeds
@@ -22,16 +22,16 @@ Makes 12 Muffins
 ## Instructions ##
 
 1. Preheat oven to 375°F ⚠️ and grease or line a 12-cup muffin tin.
-2. Stir flaxseed and water together in a small bowl and let it sit for about 5 minutes, until gloopy.
-3. In a large bowl, rub the lemon zest into the sugar with your fingers until fragrant, then whisk in flour, poppy seeds, buttermilk powder, baking powder, baking soda, and salt.
-4. In another bowl, whisk together water, olive oil, melted butter, flax mixture, lemon juice, and vanilla.
-5. Pour wet ingredients into dry and stir until just combined.
-6. Divide between the muffin cups and sprinkle the tops with the extra sugar.
-7. Bake for 18-22 minutes ⚠️, until a toothpick in the center comes out clean.
+2. In a large bowl, rub the lemon zest into the sugar with your fingers until fragrant, then whisk in flour, poppy seeds, buttermilk powder, baking powder, baking soda, and salt.
+3. In another bowl, whisk together eggs, water, olive oil, melted butter, lemon juice, and vanilla.
+4. Pour wet ingredients into dry and stir until just combined.
+5. Divide between the muffin cups and sprinkle the tops with the extra sugar.
+6. Bake for 18-22 minutes ⚠️, until a toothpick in the center comes out clean.
 
 ## Notes ##
 
-- Adapted from *The Official Stardew Valley Cookbook*. Changes: white whole wheat flour, buttermilk powder + water instead of buttermilk, flax eggs instead of eggs, and part olive oil instead of all butter. The method above is written from scratch, so check the oven temperature and time against the book.
+- Adapted from *The Official Stardew Valley Cookbook*. Changes: white whole wheat flour, buttermilk powder + water instead of buttermilk, and part olive oil instead of all butter.
+- MacroFactor still lists 6 T of water from an older flax-egg version (with the flax set to 0), so it's left out here. The method above is written from scratch, so check the oven temperature and time against the book.
 - Logged on 29 days (Jan-May 2026).
 - MacroFactor: about 257 kcal and 5 g protein per muffin.
 - ⚠️ = my best guess, not from MacroFactor. Please double-check.
