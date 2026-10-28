@@ -4,14 +4,14 @@ Makes 4 Servings (12 Muffins or 1 Casserole)
 
 ## Ingredients ##
 
-- 1 1/2 c Liquid Egg Whites ⚠️
-- 1/2 c 2% Cottage Cheese ⚠️
-- 1 c Bisquick ⚠️
-- 2 1/2 c Sweet Potato, diced small (or leftover [Crispy Sweet Potatoes](../Sides/Crispy%20Sweet%20Potatoes.md)) ⚠️
-- 3 Green Onions, sliced ⚠️
-- 2 oz Part Skim Mozzarella, shredded ⚠️
-- 2 T Grated Parmesan ⚠️
-- Grapeseed or Olive Oil, for greasing
+- 1 c (250 g) Liquid Egg Whites
+- 1/2 c 2% Cottage Cheese
+- 1 c Bisquick
+- 332 g (about 2 1/2 c) Sweet Potato, diced small (or leftover [Crispy Sweet Potatoes](../Sides/Crispy%20Sweet%20Potatoes.md))
+- 3 Large Green Onions, sliced
+- 2 oz Part Skim Mozzarella, shredded
+- 22 g (about 1/4 c) Grated Parmesan
+- Grapeseed Oil, for greasing
 
 ## Instructions ##
 
@@ -29,4 +29,3 @@ Swap the sweet potato for sautéed mushrooms and use a mix of whole eggs and egg
 - Merged from two MacroFactor recipes: "AI Egg Bake" and "High Protein Egg Bakes."
 - MacroFactor: about 315 kcal and 20 g protein per serving (higher-protein version: about 296 kcal and 27 g protein).
 - Keeps in the fridge for 3-4 days. Reheat in the microwave for about 2 minutes.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

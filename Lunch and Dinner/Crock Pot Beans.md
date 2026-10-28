@@ -4,17 +4,17 @@ Makes About 8 Servings
 
 ## Ingredients ##
 
-- 1 lb (about 2 1/3 c) Dried Pinto Beans ⚠️
+- 1 lb (about 2 1/3 c) Dried Pinto Beans
 - 1 Large Onion, chopped
-- 4 Cloves Garlic, minced ⚠️
-- 2 T Olive Oil ⚠️
-- 6 c Water ⚠️
-- 2 t Better Than Bouillon Chicken Base and/or 1 T White Miso Paste ⚠️
+- 2 Cloves Garlic, minced
+- 2 T Olive Oil
+- 6 c Water
+- 4 t Better Than Bouillon Chicken Base and/or 2 t (10 g) White Miso Paste
 - 1 T Ground Cumin
-- 1 T Garlic Powder
+- 1 t Garlic Powder
 - Salt and Pepper
-- 2 T Butter ⚠️
-- 1 Scoop Spinach Powder (optional)
+- 2 T Butter
+- 2 Scoops Spinach Powder (optional)
 
 ## Instructions ##
 
@@ -27,4 +27,3 @@ Makes About 8 Servings
 
 - Use these in [Bean Pasta](Bean%20Pasta.md), or mash them up for refried beans.
 - MacroFactor: about 277 kcal and 13 g protein per serving.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
