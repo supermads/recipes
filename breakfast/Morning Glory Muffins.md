@@ -24,16 +24,15 @@ Makes 12 Muffins
 
 ## Instructions ##
 
-1. Preheat oven to 350°F and grease a 12-cup muffin tin with butter.
+1. Preheat oven to 400°F and grease a 12-cup muffin tin with butter.
 2. In a large bowl, whisk together both flours, brown sugar, baking powder, baking soda, cinnamon, ginger, and salt.
 3. Add apple butter, seltzer, and vanilla and stir until just combined.
 4. Fold in the apple, carrot, raisins, coconut, and walnuts.
 5. Divide the batter between the muffin cups. They'll be pretty full.
-6. Bake for 22-25 minutes, until a toothpick in the center comes out clean ⚠️.
+6. Bake for 10 minutes, then lower the oven to 350°F and bake another 10-12 minutes, until a toothpick in the center comes out clean.
 7. Let cool in the pan for 5 minutes, then move to a cooling rack.
 
 ## Notes ##
 
 - No eggs or oil: the seltzer and apple butter do that job.
 - MacroFactor: about 223 kcal and 4 g protein per muffin.
-- ⚠️ = my best guess, not from MacroFactor. Please double-check.

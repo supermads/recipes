@@ -29,9 +29,9 @@ Makes About 8 Pancakes
 
 ## Variations ##
 
-- **Maple Pancakes:** Add about 2 3/4 T (55 g) maple syrup per batch, either in the batter or drizzled on top.
+- **Maple Pancakes:** Stir about 2 3/4 T (55 g) maple syrup into the batter.
 - **Cinnamon Sugar Pancakes:** Stir 2 T (25 g) sugar and 1 t cinnamon into the batter. Makes about 9.
-- **Sourdough Maple Pancakes:** About 4 batches of Maple Pancakes, plus sourdough starter stirred into the batter. Makes about 35. MacroFactor tracks the starter as 1/4 c (31 g) white whole wheat flour, the same way the [Bread Machine Sourdough](Bread%20Machine%20Sourdough.md) does.
+- **Sourdough Maple Pancakes:** About 4 batches of Maple Pancakes, plus 1/2 c sourdough starter. Stir the starter into the batter, or let the batter rest overnight if you have time. Makes about 35. MacroFactor tracks the starter as 1/4 c (31 g) white whole wheat flour (half the starter amount), the same way the [Bread Machine Sourdough](Bread%20Machine%20Sourdough.md) does.
 
 ## Notes ##
 
