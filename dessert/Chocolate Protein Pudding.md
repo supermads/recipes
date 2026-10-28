@@ -18,4 +18,5 @@ Makes 6 Servings (4 with the Oreo Mix)
 - Merged from three MacroFactor recipes: "Chocolate Fudge Pudding," "Chocolate Vanilla Pudding," and "Chocolate Cookie Pudding." It's the same idea each time: use the milk amount on the box, but with chocolate ultra-filtered milk for extra protein.
 - MacroFactor: Fudge about 267 kcal / 17 g protein, Vanilla about 258 kcal / 16 g protein, Oreo about 180 kcal / 7 g protein per serving.
 - Box sizes were worked out from the total weights in MacroFactor. Swap in whatever boxes you actually buy.
+- The Oreo version (4.2 oz box + 2 c milk) is confirmed from MacroFactor. The Fudge and Vanilla amounts are still estimates.
 - ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

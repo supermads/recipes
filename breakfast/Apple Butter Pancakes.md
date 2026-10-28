@@ -4,18 +4,18 @@ Makes About 13 Pancakes or 4 Waffles
 
 ## Ingredients ##
 
-- 2 T Ground Flaxseed + 6 T Water ⚠️
-- 2 c White Whole Wheat Flour ⚠️
-- 2 T Brown Sugar ⚠️
-- 1/4 c Dry Buttermilk Powder ⚠️
-- 2 t Baking Powder ⚠️
-- 1/2 t Baking Soda ⚠️
-- 1 t Cinnamon ⚠️
-- 1/2 t Kosher Salt ⚠️
-- 1 1/2 c Water ⚠️
-- 1 t Vanilla Extract ⚠️
-- 1/4 c Apple Butter ⚠️
-- 1/4 c Olive Oil, plus more for the pan ⚠️
+- 2 T Ground Flaxseed + 6 T Water
+- 1 3/4 c (210 g) White Whole Wheat Flour
+- 2 t Brown Sugar
+- 5 T Dry Buttermilk Powder
+- 1 1/2 t Baking Powder
+- 1 t Baking Soda
+- 1 t Cinnamon
+- 1 t Kosher Salt
+- 1 1/4 c Water
+- 1 t Vanilla Extract
+- 1/2 c (130 g) Apple Butter
+- 1/4 c Olive Oil, plus more for the pan
 
 ## Instructions ##
 
@@ -27,10 +27,17 @@ Makes About 13 Pancakes or 4 Waffles
 
 ## Variation: Apple Butter Pebis Waffles ##
 
-Swap the olive oil for the same amount of melted butter and whisk 1/4 c powdered peanut butter ⚠️ into the dry ingredients. Cook in a waffle iron. Makes about 4 big waffles.
+Makes 4 big waffles. Make these changes to the pancake recipe:
+
+- Use 1 1/4 c (150 g) flour instead of 1 3/4 c.
+- Use 2 eggs instead of the flax and 6 T water.
+- Use 1/4 c (57 g) melted butter instead of the olive oil.
+- Whisk 1/2 c (48 g) powdered peanut butter (PB2) into the dry ingredients.
+- Use a little less apple butter (125 g). Everything else stays the same.
+
+Cook in a waffle iron.
 
 ## Notes ##
 
 - Merged from two MacroFactor recipes: "Apple Butter Pancakes" and "Apple Butter Pebis Waffles."
-- MacroFactor: about 127 kcal per pancake (waffles: about 387 kcal and 14 g protein each).
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
+- MacroFactor: about 127 kcal per pancake (waffles: about 404 kcal and 17 g protein each).

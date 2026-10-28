@@ -4,11 +4,11 @@ Makes About 8 Servings
 
 ## Ingredients ##
 
-- 4 1/2 lb Sweet Potatoes, peeled and cubed ⚠️
-- 3 T Olive Oil ⚠️
-- 2 T Shallot, minced ⚠️
-- 2 Cloves Garlic, minced ⚠️
-- 3/4 c Greek Yogurt ⚠️
+- 4 1/2 lb (2085 g) Sweet Potatoes, peeled and cubed
+- 3 T Olive Oil
+- 2/3 c Shallot, minced (about 2 large)
+- 3 Cloves Garlic, minced
+- 2/3 c (150 g) Greek Yogurt
 - Salt and Pepper to Taste
 
 ## Instructions ##
@@ -21,4 +21,3 @@ Makes About 8 Servings
 ## Notes ##
 
 - MacroFactor: about 298 kcal and 6 g protein per serving.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

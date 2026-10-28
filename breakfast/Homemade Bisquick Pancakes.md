@@ -15,8 +15,8 @@ Makes About 8 Pancakes
 
 ## Pancake Ingredients ##
 
-- 2 T Ground Flaxseed + 6 T Water ⚠️
-- 1 3/4 c (about 1/3 of a batch) Homemade Bisquick ⚠️
+- 2 T Ground Flaxseed + 6 T Water
+- 1 3/4 c (about 1/3 of a batch) Homemade Bisquick
 - 1 c Whole Milk
 - 1 T Olive Oil, plus more for the pan
 
@@ -29,12 +29,11 @@ Makes About 8 Pancakes
 
 ## Variations ##
 
-- **Maple Pancakes:** Stir 3 T maple syrup ⚠️ into the batter.
-- **Cinnamon Sugar Pancakes:** Stir 2 T sugar ⚠️ and 1-2 t cinnamon ⚠️ into the batter.
-- **Sourdough Maple Pancakes:** This is the big 35-pancake batch, which adds a lot of extra flour, probably as sourdough discard ⚠️. **Mads, please fill in how you make this one.**
+- **Maple Pancakes:** Add about 2 3/4 T (55 g) maple syrup per batch, either in the batter or drizzled on top.
+- **Cinnamon Sugar Pancakes:** Stir 2 T (25 g) sugar and 1 t cinnamon into the batter. Makes about 9.
+- **Sourdough Maple Pancakes:** About 4 batches of Maple Pancakes, plus 1/4 c (31 g) extra white whole wheat flour. Makes about 35. MacroFactor only shows the extra flour, so **Mads, please add how the sourdough goes in.**
 
 ## Notes ##
 
 - Merged from five MacroFactor recipes: "Homemade Bisquick," "Pancake Experimental," "Maple Pancakes," "Cinnamon Sugar Pancakes," and "Sourdough Maple Pancakes."
 - MacroFactor: about 156 kcal and 5 g protein per pancake (maple: about 174 kcal; cinnamon sugar: about 150 kcal, since that batch makes 9).
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
