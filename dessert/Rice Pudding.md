@@ -4,10 +4,10 @@ Makes About 6 Servings
 
 ## Ingredients ##
 
-- 2/3 c Uncooked Jasmine Rice ⚠️
-- 4 c Whole Milk ⚠️
-- 1/2 c Sugar ⚠️
-- 2 T Butter ⚠️
+- 2/3 c (119 g) Uncooked Jasmine Rice
+- 4 c Whole Milk
+- 1/2 c (100 g) Sugar
+- 2 T Butter
 - 1 t Vanilla Extract
 
 ## Instructions ##
@@ -21,5 +21,5 @@ Makes About 6 Servings
 
 - Adapted from *The Official Stardew Valley Cookbook*. The method above is written from scratch, so check it against the book.
 - Logged on 5 days (June-Oct 2026).
-- MacroFactor: about 277 kcal and 7 g protein per serving.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
+- MacroFactor: about 276 kcal and 7 g protein per serving.
+- ⚠️ = my best guess, not from MacroFactor. Please double-check.
