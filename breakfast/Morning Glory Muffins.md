@@ -4,22 +4,22 @@ Makes 12 Muffins
 
 ## Ingredients ##
 
-- 1 c White Whole Wheat Flour ⚠️
-- 1 c Unbleached All Purpose Flour ⚠️
-- 2/3 c Brown Sugar ⚠️
-- 2 t Baking Powder ⚠️
-- 1 t Baking Soda ⚠️
-- 2 t Cinnamon ⚠️
-- 1 t Ground Ginger ⚠️
-- 1/2 t Kosher Salt ⚠️
-- 1/2 c Apple Butter ⚠️
-- 1 12-oz Can Seltzer Water
-- 1 t Vanilla Extract ⚠️
+- 1 c (120 g) White Whole Wheat Flour
+- 3/4 c (90 g) Unbleached All Purpose Flour
+- 3/4 c (159 g) Brown Sugar
+- 1 T Baking Powder
+- 2 t Baking Soda
+- 2 t Cinnamon
+- 1/2 t Ground Ginger
+- 1/2 t Kosher Salt
+- 3/4 c (190 g) Apple Butter
+- 1/2 c Seltzer Water
+- 1 T Vanilla Extract
 - 1 Large Honeycrisp Apple, grated
-- 1 c Grated Carrot (about 2 carrots) ⚠️
-- 1 1.5-oz Box Raisins
-- 1/4 c Unsweetened Shredded Coconut ⚠️
-- 1/2 c Chopped Walnuts ⚠️
+- 3 Medium Carrots (about 180 g), grated
+- 1/2 c (72 g) Raisins
+- 1/2 c (40 g) Unsweetened Shredded Coconut
+- 1/3 c (39 g) Chopped Walnuts
 - Butter, for greasing the tin
 
 ## Instructions ##
@@ -36,4 +36,4 @@ Makes 12 Muffins
 
 - No eggs or oil: the seltzer and apple butter do that job.
 - MacroFactor: about 223 kcal and 4 g protein per muffin.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
+- ⚠️ = my best guess, not from MacroFactor. Please double-check.

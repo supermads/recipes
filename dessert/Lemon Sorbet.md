@@ -4,10 +4,10 @@ Makes About 10 Servings
 
 ## Ingredients ##
 
-- 1 3/4 c Sugar ⚠️
-- 1 3/4 c Water ⚠️
-- 1 T Lemon Zest
-- 1 c Fresh Lemon Juice (5-6 Lemons) ⚠️
+- 1 3/4 c (358 g) Sugar
+- 1 3/4 c (424 g) Water
+- 1 T + 1 t Lemon Zest
+- 1 1/3 c (317 g) Fresh Lemon Juice (about 7 lemons)
 
 ## Instructions ##
 
@@ -18,10 +18,9 @@ Makes About 10 Servings
 
 ## Variation: Lemon Maple Sorbet ##
 
-Use 1 c maple syrup ⚠️ and cut the sugar to 3/4 c ⚠️. Bump the water up to about 2 3/4 c ⚠️. Makes about 12 servings.
+Makes about 12 servings. Use 2 c (488 g) lemon juice, 2 c water, 1 T zest, 3/4 c + 2 T (168 g) sugar, and 3/4 c + 2 T (278 g) maple syrup. Stir the maple syrup in with the lemon juice.
 
 ## Notes ##
 
 - Merged from two MacroFactor recipes: "Lemon Sorbet" and "Lemon Maple Sorbet."
 - MacroFactor: about 146 kcal per serving (maple version: about 124 kcal).
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
