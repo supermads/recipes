@@ -4,25 +4,25 @@ Makes About 4 Servings
 
 ## Sauce ##
 
-- 1 c Vegetable Stock
-- 2 T Soy Sauce ⚠️
+- 1/4 c Vegetable Stock
+- 2 T Soy Sauce
 - 1 T Rice Vinegar
 - 1 T Sesame Oil
-- 1 T Sugar ⚠️
-- 1 T Cornstarch
+- 1/2 t Sugar
+- 2 t Cornstarch
 - Pinch of Black Pepper
 
 ## Stir Fry ##
 
-- 2 T Grapeseed Oil ⚠️
-- 1 Onion, sliced
-- 2 Carrots, thinly sliced ⚠️
-- 4 oz Shiitake Mushrooms, sliced ⚠️
-- 1 T Fresh Ginger, minced ⚠️
-- 3 Cloves Garlic, minced ⚠️
-- 2 c Red Cabbage, sliced ⚠️
-- 2 c Snow Peas ⚠️
-- 1 T Toasted Sesame Seeds
+- 2 T Grapeseed Oil
+- 1 Small Onion (120 g), sliced
+- 2 Small Carrots, thinly sliced
+- 1 lb Shiitake Mushrooms, sliced
+- 1 Slice Fresh Ginger, minced
+- 3 Cloves Garlic, minced
+- 400 g Red Cabbage (about 5 c), sliced
+- 4 oz Snow Peas
+- 2 t Toasted Sesame Seeds
 
 ## Instructions ##
 
@@ -39,4 +39,3 @@ Makes About 4 Servings
 
 - Adapted from *The Official Stardew Valley Cookbook*. The method above is written from scratch.
 - MacroFactor: about 220 kcal and 6 g protein per serving, not counting rice.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

@@ -4,10 +4,10 @@ Makes 1 9x9" Pan (8 Servings)
 
 ## Ingredients ##
 
-- 6 Medium Apples or 8 Medium Peaches, peeled and sliced ⚠️
-- 1 c Brown Sugar ⚠️
-- 1/2 c Bisquick or [Homemade Bisquick](../breakfast/Homemade%20Bisquick%20Pancakes.md) ⚠️
-- 1 t Nutmeg ⚠️
+- 8 Medium Apples (about 2 1/2 lb) or 8 Medium Peaches, peeled and sliced
+- 3/4 c Brown Sugar
+- 1 c Bisquick or [Homemade Bisquick](../breakfast/Homemade%20Bisquick%20Pancakes.md)
+- 1/4 t Nutmeg
 
 ## Instructions ##
 
@@ -22,4 +22,3 @@ Makes 1 9x9" Pan (8 Servings)
 - Adapted from the "Peachie Pudding Pie" on the Cooking the Books YouTube channel. The apple version is Mads's swap.
 - Merged from two MacroFactor recipes: "Appley Pudding Pie" (full recipe) and "Peachie Pudding Pie" (half recipe with Homemade Bisquick).
 - MacroFactor: about 213 kcal per serving (apple version).
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

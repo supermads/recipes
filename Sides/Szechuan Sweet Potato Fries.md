@@ -6,10 +6,10 @@ Makes About 4 Servings
 
 - 1 lb Sweet Potatoes
 - 1 T Olive Oil
-- 1 T Cornstarch ⚠️
-- 1 t Garlic Powder ⚠️
-- 1 t Szechuan Peppercorns, toasted and ground ⚠️
-- Pinch of Black Pepper
+- 2 t Cornstarch
+- 1/2 t Garlic Powder
+- 1/2 t Szechuan Peppercorns, toasted and ground
+- 1/2 t Black Pepper
 - Salt to Taste
 
 ## Instructions ##
@@ -27,4 +27,3 @@ Makes About 4 Servings
 
 - Adapted from [Gimme Some Oven's baked sweet potato fries](https://www.gimmesomeoven.com/oven-roasted-sweet-potato-fries/), swapping the smoked paprika for Szechuan peppercorns.
 - MacroFactor: about 137 kcal per serving.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.

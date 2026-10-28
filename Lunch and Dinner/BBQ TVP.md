@@ -24,7 +24,7 @@ Makes About 4 Servings
 ## Ways to Eat It ##
 
 - **BBQ TVP Bowl:** over jasmine rice with [Roasted Cabbage](../Sides/Roasted%20Cabbage.md).
-- **BBQ TVP Sweet Potatoes:** stuffed into a baked sweet potato with a drizzle of olive oil, feta, and green onions.
+- **BBQ TVP Sweet Potatoes:** 1 serving stuffed into a baked sweet potato (250 g) with 1/2 t olive oil, 1 oz feta, and half a green onion (green part), sliced.
 - On a bun with pickles.
 
 ## Notes ##

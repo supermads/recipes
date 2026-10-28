@@ -4,15 +4,15 @@ Makes About 4 Servings
 
 ## Ingredients ##
 
-- 1 1/2 lb Boneless Skinless Chicken Thighs ⚠️
-- 1/3 c Orange Marmalade ⚠️
-- 2 T Soy Sauce, divided ⚠️
-- 3 Cloves Garlic, grated ⚠️
-- 1 T Fresh Ginger, grated ⚠️
-- 3 Green Onions, sliced ⚠️
-- Salt and Pepper
-- 4 c Red Cabbage, chopped ⚠️
-- 2 T Olive Oil, divided ⚠️
+- 1 1/3 lb (590 g) Boneless Skinless Chicken Thighs
+- 3 T (60 g) Orange Marmalade
+- 1 T Soy Sauce, divided
+- 3 Cloves Garlic, grated
+- 1 T Fresh Ginger, grated
+- 4 Large Green Onions, sliced
+- 2 t Salt and 1/4 t Pepper
+- 1 Medium Head Red Cabbage (about 840 g), chopped
+- 1 T + 1 t Olive Oil, divided
 
 ## Instructions ##
 
@@ -27,4 +27,4 @@ Makes About 4 Servings
 
 - Adapted from a Sohla El-Waylly TikTok recipe.
 - MacroFactor: about 329 kcal and 33 g protein per serving.
-- ⚠️ = amount estimated from MacroFactor's nutrition totals (the export didn't include real amounts). Please double-check.
+- ⚠️ = my best guess, not from MacroFactor. Please double-check.
