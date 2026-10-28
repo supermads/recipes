@@ -7,7 +7,7 @@ Makes 1 9" Pie (6 Servings)
 - 1 T Olive Oil
 - 1 Large Onion, chopped
 - 1 3/4 c (168 g) Dry TVP
-- 1 1/2 t Better Than Bouillon Chicken Base + about 1 1/2 c Hot Water ⚠️
+- 1 1/2 t Better Than Bouillon Chicken Base + 1 1/2 c Hot Water (1 t per cup)
 - 1 c (177 g) Canned Kidney Beans, drained and rinsed (about 2/3 of a 15-oz can)
 - 1 10-oz Package Frozen Mixed Vegetables
 - 1 T Low Sodium Soy Sauce

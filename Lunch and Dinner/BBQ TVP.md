@@ -5,7 +5,7 @@ Makes About 4 Servings
 ## Ingredients ##
 
 - 1 c (96 g) Dry TVP
-- 1 1/2 t Chicken Base (like Better Than Bouillon) + about 1 c Hot Water ⚠️
+- 1 1/2 t Chicken Base (like Better Than Bouillon) + 1 1/2 c Hot Water
 - 1 T Olive Oil
 - 1 Medium Onion, chopped
 - 2 Cloves Garlic, minced
@@ -31,4 +31,4 @@ Makes About 4 Servings
 
 - Adapted from an online BBQ TVP recipe, using chicken base and soy sauce instead of vegetable broth, smoked paprika, and maple syrup.
 - MacroFactor: about 199 kcal and 15 g protein per serving (BBQ TVP Bowl: about 473 kcal; BBQ TVP Sweet Potato: about 517 kcal).
-- ⚠️ = my best guess, not from MacroFactor. Please double-check.
+- Use 1 t chicken base per cup of water.

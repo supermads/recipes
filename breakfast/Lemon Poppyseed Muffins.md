@@ -21,17 +21,16 @@ Makes 12 Muffins
 
 ## Instructions ##
 
-1. Preheat oven to 375°F ⚠️ and grease or line a 12-cup muffin tin.
+1. Preheat oven to 400°F and grease or line a 12-cup muffin tin.
 2. In a large bowl, rub the lemon zest into the sugar with your fingers until fragrant, then whisk in flour, poppy seeds, buttermilk powder, baking powder, baking soda, and salt.
 3. In another bowl, whisk together eggs, water, olive oil, melted butter, lemon juice, and vanilla.
 4. Pour wet ingredients into dry and stir until just combined.
 5. Divide between the muffin cups and sprinkle the tops with the extra sugar.
-6. Bake for 18-22 minutes ⚠️, until a toothpick in the center comes out clean.
+6. Bake for 10 minutes, then lower the oven to 375°F and bake another 10-12 minutes, until a toothpick in the center comes out clean.
 
 ## Notes ##
 
 - Adapted from *The Official Stardew Valley Cookbook*. Changes: white whole wheat flour, buttermilk powder + water instead of buttermilk, and part olive oil instead of all butter.
-- MacroFactor still lists 6 T of water from an older flax-egg version (with the flax set to 0), so it's left out here. The method above is written from scratch, so check the oven temperature and time against the book.
+- MacroFactor still lists 6 T of extra water left over from an older flax-egg version. It shouldn't be there, so it's left out here.
 - Logged on 29 days (Jan-May 2026).
 - MacroFactor: about 257 kcal and 5 g protein per muffin.
-- ⚠️ = my best guess, not from MacroFactor. Please double-check.
